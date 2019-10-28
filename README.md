@@ -10,5 +10,5 @@ The MBA curriculum is inspired by the MBA program of Wharton School of the Unive
 # MBA Curriculum :
 Course | University | Duration | Effort | Certificate
 :-- | :--: | :--: | :--: | :--:
-[Business Foundations Specialization](https://www.coursera.org/specializations/wharton-business-foundations) | University of Pennsylvania |26 weeks | 3-6 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/specialization/6JQMZRBY46T8 ) 
-
+[Business Foundations Specialization](https://www.coursera.org/specializations/wharton-business-foundations) | University of Pennsylvania- The Wharton School |26 weeks | 3-6 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/specialization/6JQMZRBY46T8 ) 
+[Introduction to Marketing](https://www.coursera.org/learn/wharton-marketing) | University of Pennsylvania-The Wharton School | 5 weeks | 4-6 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/SJDV79N58SB7)
