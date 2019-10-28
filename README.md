@@ -37,6 +37,20 @@ Course | University | Duration | Effort | Certificate
 [Basic Data Descriptors, Statistical Distributions, and Application to Business Decisions](https://www.coursera.org/learn/descriptive-statistics-statistical-distributions-business-application?specialization=business-statistics-analysis) | Rice University-Jones Graduate School of Business | 4 weeks | 1-3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/UT2DMMNLTBCZ)
 [Business Applications of Hypothesis Testing and Confidence Interval Estimation](https://www.coursera.org/learn/hypothesis-testing-confidence-intervals?specialization=business-statistics-analysis) | Rice University-Jones Graduate School of Business | 4 weeks | 1-3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/GSNS6KCUEUFU)
 [Linear Regression for Business Statistics](https://www.coursera.org/learn/linear-regression-business-statistics?specialization=business-statistics-analysis) | Rice University-Jones Graduate School of Business | 4 weeks | 1-3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/94RS2U5SCZUC)
+[Marketing Mix Implementation Specialization](https://www.coursera.org/specializations/marketing-mix) |IE Business School |Approx. 3 months to complete | 7 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/specialization/T6VF86MRL98W)
+[Brand and Product Management](https://www.coursera.org/learn/brand-management?specialization=marketing-mix) |IE Business School |4 weeks | 7 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/verify/LBWZFQ5HLDJE)
+[Pricing Strategy](https://www.coursera.org/learn/pricing-strategy?specialization=marketing-mix) |IE Business School |4 weeks | 7 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/verify/6KXJ6YCE9YL7)
+[Channel Management and Retailing](https://www.coursera.org/learn/channel-management?specialization=marketing-mix) |IE Business School |4 weeks | 2-4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/verify/FWXFN2E4FLFQ)
+[Integrated Marketing Communications: Advertising, Public Relations, Digital Marketing and more](https://www.coursera.org/learn/integrated-marketing-communications?specialization=marketing-mix) |IE Business School |4 weeks | 2-4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/verify/W5773NRYKF99)
+[Marketing Mix Implementation Capstone](https://www.coursera.org/learn/marketing-mix-capstone) |IE Business School |5 weeks | 4-6 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/verify/MYSH8VJKHR3K)
+
+
+
+
+     # FLexible Core
+  
+Course | University | Duration | Effort | Certificate
+:-- | :--: | :--: | :--: | :--:
 [Making Successful Decisions through the Strategy, Law & Ethics Model](https://www.coursera.org/learn/strategy-law-ethics) |  University of Michigan | 10 weeks | 1-3 Hours/Week|[Verify Certificate](https://)
 [Successful Negotiation: Essential Strategies and Skills](https://www.coursera.org/learn/negotiation-skills) |  University of Michigan | 7 weeks | 1.5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/RG3VGANCFQYG)
 [The Power of Macroeconomics: Economic Principles in the Real World](https://www.coursera.org/learn/principles-of-macroeconomics) |  University of California, Irvine |  13 weeks  | Approx. 25 hours to complete|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/HKSXFXKTJSV3)
