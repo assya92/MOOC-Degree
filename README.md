@@ -44,6 +44,9 @@ Course | University | Duration | Effort | Certificate
 [Integrated Marketing Communications: Advertising, Public Relations, Digital Marketing and more](https://www.coursera.org/learn/integrated-marketing-communications?specialization=marketing-mix) |IE Business School |4 weeks | 2-4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/verify/W5773NRYKF99)
 [Marketing Mix Implementation Capstone](https://www.coursera.org/learn/marketing-mix-capstone) |IE Business School |5 weeks | 4-6 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/verify/MYSH8VJKHR3K)
 [Business Writing](https://www.coursera.org/learn/writing-for-business) |University of Colorado Boulder |4 weeks | 1-3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/T7W3YZFSK9FD)
+[High-Impact Business Writing](https://www.coursera.org/learn/business-writing) |University of California, Irvine  |Approx. 6 hours to complete | 1-3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/DYF75Y944ADQ)
+[Successful Presentation](https://www.coursera.org/learn/presentation-skills) |University of Colorado Boulder |4 weeks | 8 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/UTTWWWD5G37Z)
+[Graphic Design](https://www.coursera.org/learn/presentation-design) |University of Colorado Boulder |4 weeks | 2 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/822N9YYHJHCY)
 
 
 
