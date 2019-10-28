@@ -17,3 +17,5 @@ Course | University | Duration | Effort | Certificate
 [Introduction to Corporate Finance ](https://www.coursera.org/learn/wharton-finance) |  University of Pennsylvania-The Wharton School | 4 weeks | 3-5 Hours/Week|[Verify Certificate]( https://www.coursera.org/account/accomplishments/records/3HMQN6ETUXM2)
 [Introduction to Operations Management](https://www.coursera.org/learn/wharton-operations) |  University of Pennsylvania-The Wharton School | 4 weeks | 4-6 Hours/Week|[Verify Certificate]( https://www.coursera.org/account/accomplishments/records/2E39CG8VKFF4)
 [Wharton Business Foundations Capstone](https://www.coursera.org/learn/wharton-capstone) |  University of Pennsylvania-The Wharton School | 5 weeks | 3-5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/HL69AXSVZLBL)
+[Leading People and Teams Specialization](https://www.coursera.org/specializations/leading-teams) |  University of Michigan-Ross School of Business | 20 weeks | 2-5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/specialization/3P8GU2FSDABJ)
+
