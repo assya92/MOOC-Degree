@@ -47,6 +47,12 @@ Course | University | Duration | Effort | Certificate
 [High-Impact Business Writing](https://www.coursera.org/learn/business-writing) |University of California, Irvine  |Approx. 6 hours to complete | 1-3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/DYF75Y944ADQ)
 [Successful Presentation](https://www.coursera.org/learn/presentation-skills) |University of Colorado Boulder |4 weeks | 8 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/UTTWWWD5G37Z)
 [Graphic Design](https://www.coursera.org/learn/presentation-design) |University of Colorado Boulder |4 weeks | 2 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/822N9YYHJHCY)
+[Successful Negotiation: Essential Strategies and Skills](https://www.coursera.org/learn/negotiation-skills) |  University of Michigan | 7 weeks | 1.5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/RG3VGANCFQYG)
+[Think Again I: How to Understand Arguments](https://www.coursera.org/learn/understanding-arguments) |Duke University |4 weeks | 2-4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/9WE494A94CVZ)
+[Think Again II: How to Reason Deductively](https://www.coursera.org/learn/deductive-reasoning) |Duke University |4 weeks | 2-3 Hours/Week|[Verify Certificate]( https://www.coursera.org/account/accomplishments/records/S2C6DK34YHCY)
+[Think Again III: How to Reason Inductively](https://www.coursera.org/learn/inductive-reasoning) |Duke University |4 weeks | 2-4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/KAA68VFBJ5GK)
+[Think Again IV: How to Avoid Fallacies](https://www.coursera.org/learn/logical-fallacies) |Duke University |4 weeks | 2-3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/U5QQKUAMU2XF)
+
 
 
 
@@ -55,7 +61,7 @@ Course | University | Duration | Effort | Certificate
 Course | University | Duration | Effort | Certificate
 :-- | :--: | :--: | :--: | :--:
 [Making Successful Decisions through the Strategy, Law & Ethics Model](https://www.coursera.org/learn/strategy-law-ethics) |  University of Michigan | 10 weeks | 1-3 Hours/Week|[Verify Certificate](https://)
-[Successful Negotiation: Essential Strategies and Skills](https://www.coursera.org/learn/negotiation-skills) |  University of Michigan | 7 weeks | 1.5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/RG3VGANCFQYG)
+
 [The Power of Macroeconomics: Economic Principles in the Real World](https://www.coursera.org/learn/principles-of-macroeconomics) |  University of California, Irvine |  13 weeks  | Approx. 25 hours to complete|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/HKSXFXKTJSV3)
 
 
