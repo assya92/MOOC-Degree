@@ -12,3 +12,5 @@ Course | University | Duration | Effort | Certificate
 :-- | :--: | :--: | :--: | :--:
 [Business Foundations Specialization](https://www.coursera.org/specializations/wharton-business-foundations) | University of Pennsylvania- The Wharton School |26 weeks | 3-6 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/specialization/6JQMZRBY46T8 ) 
 [Introduction to Marketing](https://www.coursera.org/learn/wharton-marketing) | University of Pennsylvania-The Wharton School | 5 weeks | 4-6 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/SJDV79N58SB7)
+[Introduction to Financial Accounting](https://www.coursera.org/learn/wharton-accounting) | University of Pennsylvania-The Wharton School | 4 weeks | 5-6 Hours/Week|[Verify Certificate]( https://www.coursera.org/account/accomplishments/records/8E6BB7N56HZ4) 
+[Managing Social and Human Capital ](https://www.coursera.org/learn/wharton-social-human-capital) |  University of Pennsylvania-The Wharton School | 4 weeks | 2-3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/66Z4WKCMATDE)
