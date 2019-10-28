@@ -23,8 +23,17 @@ Course | University | Duration | Effort | Certificate
 [Influencing People](https://www.coursera.org/learn/influencing-people) |  University of Michigan-Ross School of Business | 4 weeks | 4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/9MEE3QZGGH7C)
   [Leading Teams](https://www.coursera.org/learn/leading-teams) |  University of Michigan-Ross School of Business | 4 weeks | 1-2 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/2F5WRZ6CBJRJ)
   [Leading People and Teams Capstone](https://www.coursera.org/learn/leading-teams-project) |  University of Michigan-Ross School of Business | 4 weeks | 2-4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/6TG9FKLW5NA9)
-   [Organizational Leadership Specialization](https://www.coursera.org/specializations/organizational-leadership) |  Northwestern University |  5 months | 5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/specialization/A79RRSKMJWTZ)
+   [Organizational Leadership Specialization](https://www.coursera.org/specializations/organizational-leadership) |  Northwestern University |  5 months | 1-5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/specialization/A79RRSKMJWTZ)
    [High Performance Collaboration: Leadership, Teamwork, and Negotiation](https://www.coursera.org/learn/leadership-collaboration) |  Northwestern University-Kellogg School of Management | 3 weeks | 5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/X5BSC4YPYDKA)
+[Leadership Communication for Maximum Impact: Storytelling](https://www.coursera.org/learn/leadership-storytelling) |  Northwestern University-Medill School of Journalism, Media, Integrated Marketing Communications | 4 weeks | 3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/RAYT7BFE8PN7)
+[Leadership Through Social Influence](https://www.coursera.org/learn/leadership-socialinfluence) |  Northwestern University-School of Communication  | 4 weeks | 1-3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/8XF3C6HCYBYK)
+[Leadership Through Marketing](https://www.coursera.org/learn/leadership-marketing) |  Northwestern University-Kellogg School of Management | 3 weeks | 1-2 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/9G84QQGHQVBU)
+[Leadership Through Design Innovation](https://www.coursera.org/learn/leadership-design-innovation |  Northwestern University-McCormick School of Engineering and Applied Science | 4 weeks | 3-4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/QKPKLGE6K2Q4)
+[Organizational Leadership Capstone](https://www.coursera.org/specializations/organizational-leadership) |  Northwestern University |  8 weeks  | 2-4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/XGKSWGUUGEUQ)
+
+
+
+
 
   
 
