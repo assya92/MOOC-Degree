@@ -43,7 +43,7 @@ Course | University | Duration | Effort | Certificate
 [Channel Management and Retailing](https://www.coursera.org/learn/channel-management?specialization=marketing-mix) |IE Business School |4 weeks | 2-4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/verify/FWXFN2E4FLFQ)
 [Integrated Marketing Communications: Advertising, Public Relations, Digital Marketing and more](https://www.coursera.org/learn/integrated-marketing-communications?specialization=marketing-mix) |IE Business School |4 weeks | 2-4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/verify/W5773NRYKF99)
 [Marketing Mix Implementation Capstone](https://www.coursera.org/learn/marketing-mix-capstone) |IE Business School |5 weeks | 4-6 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/verify/MYSH8VJKHR3K)
-
+[Business Writing](https://www.coursera.org/learn/writing-for-business) |University of Colorado Boulder |4 weeks | 1-3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/T7W3YZFSK9FD)
 
 
 
