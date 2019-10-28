@@ -21,7 +21,8 @@ Course | University | Duration | Effort | Certificate
 [Inspiring and Motivating Individuals](https://www.coursera.org/learn/motivate-people-teams) |  University of Michigan-Ross School of Business | 4 weeks | 3-5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/ZL8DR92KPFH4)
 [Managing Talent](https://www.coursera.org/learn/managing-talents) |  University of Michigan-Ross School of Business | 4 weeks | 3-5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/CJELGKPN82CH)
 [Influencing People](https://www.coursera.org/learn/influencing-people) |  University of Michigan-Ross School of Business | 4 weeks | 4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/9MEE3QZGGH7C)
-  [Leading Teams] (https://www.coursera.org/learn/leading-teams) |  University of Michigan-Ross School of Business | 4 weeks | 1-2 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/2F5WRZ6CBJRJ)
+  [Leading Teams](https://www.coursera.org/learn/leading-teams) |  University of Michigan-Ross School of Business | 4 weeks | 1-2 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/2F5WRZ6CBJRJ)
+  
 
 
 
