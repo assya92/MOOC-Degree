@@ -19,5 +19,10 @@ Course | University | Duration | Effort | Certificate
 [Wharton Business Foundations Capstone](https://www.coursera.org/learn/wharton-capstone) |  University of Pennsylvania-The Wharton School | 5 weeks | 3-5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/HL69AXSVZLBL)
 [Leading People and Teams Specialization](https://www.coursera.org/specializations/leading-teams) |  University of Michigan-Ross School of Business | 20 weeks | 2-5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/specialization/3P8GU2FSDABJ)
 [Inspiring and Motivating Individuals](https://www.coursera.org/learn/motivate-people-teams) |  University of Michigan-Ross School of Business | 4 weeks | 3-5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/ZL8DR92KPFH4)
+[Managing Talent](https://www.coursera.org/learn/managing-talents) |  University of Michigan-Ross School of Business | 4 weeks | 3-5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/CJELGKPN82CH)
+[Influencing People](https://www.coursera.org/learn/influencing-people) |  University of Michigan-Ross School of Business | 4 weeks | 4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/9MEE3QZGGH7C)
+  [Leading Teams] (https://www.coursera.org/learn/leading-teams) |  University of Michigan-Ross School of Business | 4 weeks | 1-2 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/2F5WRZ6CBJRJ)
+
+
 
 
