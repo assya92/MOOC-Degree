@@ -5,7 +5,7 @@ I mainely took courses offered by Coursera as they accorded me financial assista
 
 The MBA curriculum is inspired by the MBA program of Wharton School of the University of Pennsylvania as it is one the best in the world and all almost their core courses are available on Coursera.
 
-[Wharton Business school MBA curriculum](https://www.coursera.org/learn/learning-how-to-learn)
+[Wharton Business school MBA curriculum](https://apps.wharton.upenn.edu/spike/mbaprogram/curriculum/curriculum_snapshot.pdf) or [Wharton Business school MBA curriculum](https://mba-inside.wharton.upenn.edu/core-curriculum/)
 
 # MBA Curriculum :
         # Fixed Core
