@@ -37,6 +37,7 @@ Course | University | Duration | Effort | Certificate
 [Linear Regression for Business Statistics](https://www.coursera.org/learn/linear-regression-business-statistics?specialization=business-statistics-analysis) | Rice University-Jones Graduate School of Business | 4 weeks | 1-3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/94RS2U5SCZUC)
 [Making Successful Decisions through the Strategy, Law & Ethics Model](https://www.coursera.org/learn/strategy-law-ethics) |  University of Michigan | 10 weeks | 1-3 Hours/Week|[Verify Certificate](https://)
 [Successful Negotiation: Essential Strategies and Skills](https://www.coursera.org/learn/negotiation-skills) |  University of Michigan | 7 weeks | 1.5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/RG3VGANCFQYG)
+[The Power of Macroeconomics: Economic Principles in the Real World](https://www.coursera.org/learn/principles-of-macroeconomics) |  University of California, Irvine |  13 weeks  | Approx. 25 hours to complete|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/HKSXFXKTJSV3)
 
 
 
