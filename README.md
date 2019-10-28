@@ -28,7 +28,7 @@ Course | University | Duration | Effort | Certificate
 [Leadership Communication for Maximum Impact: Storytelling](https://www.coursera.org/learn/leadership-storytelling) |  Northwestern University-Medill School of Journalism, Media, Integrated Marketing Communications | 4 weeks | 3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/RAYT7BFE8PN7)
 [Leadership Through Social Influence](https://www.coursera.org/learn/leadership-socialinfluence) |  Northwestern University-School of Communication  | 4 weeks | 1-3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/8XF3C6HCYBYK)
 [Leadership Through Marketing](https://www.coursera.org/learn/leadership-marketing) |  Northwestern University-Kellogg School of Management | 3 weeks | 1-2 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/9G84QQGHQVBU)
-[Leadership Through Design Innovation](https://www.coursera.org/learn/leadership-design-innovation |  Northwestern University-McCormick School of Engineering and Applied Science | 4 weeks | 3-4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/QKPKLGE6K2Q4)
+[Leadership Through Design Innovation](https://www.coursera.org/learn/leadership-design-innovation) |  Northwestern University-McCormick School of Engineering and Applied Science | 4 weeks | 3-4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/QKPKLGE6K2Q4)
 [Organizational Leadership Capstone](https://www.coursera.org/specializations/organizational-leadership) |  Northwestern University |  8 weeks  | 2-4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/XGKSWGUUGEUQ)
 
 
