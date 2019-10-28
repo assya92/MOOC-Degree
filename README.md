@@ -65,10 +65,9 @@ Course | University | Duration | Effort | Certificate
 [Corporate Financial Decision-Making for Value Creation](https://www.coursera.org/learn/value-creation?specialization=learn-finance) | The University of Melbourne | 4 weeks | 4-6 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/verify/ZJMMSWG4DEKG)
 [Alternative Approaches to Valuation and Investment](https://www.coursera.org/learn/valuation?specialization=learn-finance) | The University of Melbourne | 4 weeks | 4-6 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/verify/YGKB9GV9ZNQ9)
 [Essentials of Corporate Finance Capstone](https://www.coursera.org/learn/financial-analysis-project) | The University of Melbourne | 4 weeks | 4-6 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/verify/VAHCDFG2ZKWC)
-
-
-[Making Successful Decisions through the Strategy, Law & Ethics Model](https://www.coursera.org/learn/strategy-law-ethics) |  University of Michigan | 10 weeks | 1-3 Hours/Week|[Verify Certificate](https://)
 [The Power of Macroeconomics: Economic Principles in the Real World](https://www.coursera.org/learn/principles-of-macroeconomics) |  University of California, Irvine |  13 weeks  | Approx. 25 hours to complete|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/HKSXFXKTJSV3)
+[Making Successful Decisions through the Strategy, Law & Ethics Model](https://www.coursera.org/learn/strategy-law-ethics) |  University of Michigan | 10 weeks | 1-3 Hours/Week|[Verify Certificate](https://)
+
 
 
 
