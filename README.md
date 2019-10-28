@@ -22,6 +22,9 @@ Course | University | Duration | Effort | Certificate
 [Managing Talent](https://www.coursera.org/learn/managing-talents) |  University of Michigan-Ross School of Business | 4 weeks | 3-5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/CJELGKPN82CH)
 [Influencing People](https://www.coursera.org/learn/influencing-people) |  University of Michigan-Ross School of Business | 4 weeks | 4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/9MEE3QZGGH7C)
   [Leading Teams](https://www.coursera.org/learn/leading-teams) |  University of Michigan-Ross School of Business | 4 weeks | 1-2 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/2F5WRZ6CBJRJ)
+  [Leading People and Teams Capstone](https://www.coursera.org/learn/leading-teams-project) |  University of Michigan-Ross School of Business | 4 weeks | 2-4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/6TG9FKLW5NA9)
+   [Organizational Leadership Specialization](https://www.coursera.org/specializations/organizational-leadership) |  Northwestern University |  5 months | 5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/specialization/A79RRSKMJWTZ)
+  
   
 
 
