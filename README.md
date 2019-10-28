@@ -30,6 +30,15 @@ Course | University | Duration | Effort | Certificate
 [Leadership Through Marketing](https://www.coursera.org/learn/leadership-marketing) |  Northwestern University-Kellogg School of Management | 3 weeks | 1-2 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/9G84QQGHQVBU)
 [Leadership Through Design Innovation](https://www.coursera.org/learn/leadership-design-innovation) |  Northwestern University-McCormick School of Engineering and Applied Science | 4 weeks | 3-4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/QKPKLGE6K2Q4)
 [Organizational Leadership Capstone](https://www.coursera.org/specializations/organizational-leadership) |  Northwestern University |  8 weeks  | 2-4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/XGKSWGUUGEUQ)
+[The Power of Microeconomics: Economic Principles in the Real World](https://www.coursera.org/learn/principles-of-microeconomics) |  University of California, Irvine |  13 weeks  | Approx. 22 hours to complete|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/RLFH2Y63VSZ8)
+[Introduction to Data Analysis Using Excel](https://www.coursera.org/learn/excel-data-analysis?specialization=business-statistics-analysis) | Rice University-Jones Graduate School of Business | 4 weeks | 1-3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/GRN6SAHFC7KX)
+[Basic Data Descriptors, Statistical Distributions, and Application to Business Decisions](https://www.coursera.org/learn/descriptive-statistics-statistical-distributions-business-application?specialization=business-statistics-analysis) | Rice University-Jones Graduate School of Business | 4 weeks | 1-3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/UT2DMMNLTBCZ)
+[Business Applications of Hypothesis Testing and Confidence Interval Estimation](https://www.coursera.org/learn/hypothesis-testing-confidence-intervals?specialization=business-statistics-analysis) | Rice University-Jones Graduate School of Business | 4 weeks | 1-3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/GSNS6KCUEUFU)
+[Linear Regression for Business Statistics](https://www.coursera.org/learn/linear-regression-business-statistics?specialization=business-statistics-analysis) | Rice University-Jones Graduate School of Business | 4 weeks | 1-3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/94RS2U5SCZUC)
+
+
+
+
 
 
 
