@@ -126,6 +126,7 @@ Course |   University  | Duration | Effort | Certificate
 [Decision-Making and Scenarios](https://www.coursera.org/learn/wharton-decision-making-scenarios)| University of Pennsylvania - The Wharton School  | 4 weeks | 1-3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/3YPT4TVREXU6)
 
      ## Electives
+         Strategy,Entrepreneurship,Marketing
 Course |   University  | Duration | Effort | Certificate
 :-- | :--: |   :--:  | :--: | :--:
 [ Organizational Analysis](https://www.coursera.org/learn/organizational-analysis)| Stanford University   | 11 weeks | 2-5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/6AAJ5DQWY5NB)
@@ -137,6 +138,13 @@ Course |   University  | Duration | Effort | Certificate
 [Digital Marketing Specialization  (6 courses)](https://www.coursera.org/specializations/digital-marketing)| University of Illinois at Urbana-Champaign   | Approx. 2 months to complete | 6-8 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/specialization/9ZNTD7LVTMA6)
 [Social Media Marketing Specialization (6 courses)](https://www.coursera.org/specializations/social-media-marketing)| Northwestern University  | Approx. 5 months to complete | 4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/specialization/S9UWJNZ3LYMN)
 [ Introduction to Environmental Law and Policy](https://www.coursera.org/learn/environmental-law)| The University of North Carolina at Chapel Hill  | 6 weeks | 4-6 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/2EQYY6MQ3ER6)
+[Business Growth Strategy](https://www.coursera.org/learn/uva-darden-business-growth-strategy)| University of Virginia   | 4 weeks | 2-6 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/36L7VVR9JED2)
+[Strategic Planning and Execution](https://www.coursera.org/learn/uva-darden-strategic-planning-execution)| University of Virginia   | 4 weeks | 2-5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/6JAWV72T3TGP)
+[Competitive Strategy](https://www.coursera.org/learn/competitive-strategy)| Ludwig-Maximilians-Universität München (LMU)  | 6 weeks | 2-4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/GBUBXQPY3AN3)
+[ Advanced Competitive Strategy](https://www.coursera.org/learn/advanced-competitive-strategy)| Ludwig-Maximilians-Universität München (LMU)  | 8 weeks | 2-3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/GB97K8UXGTH2)
+[Strategic Organization Design](https://www.coursera.org/learn/organization-design)| Ludwig-Maximilians-Universität München (LMU)  | 6 weeks | 5.5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/762PE4PWKBQP)
+
+
 
 
 
