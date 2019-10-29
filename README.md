@@ -9,8 +9,8 @@ I mainely took courses offered by Coursera as they accorded me financial assista
 
 - [MBA Curriculum](https://github.com/assya92/MOOC-Degree/#MBA-Curriculum)
 - [ Fixed Core courses](https://github.com/assya92/MOOC-Degree/#Fixed-Core)
-- [ FLexible Core Courses ](https://github.com/assya92/MOOC-Degree/#FLexible-Core)
-- [Finance Major Courses ](https://github.com/assya92/MOOC-Degree/#Finance-Major )
+- [ FLexible Core Courses](https://github.com/assya92/MOOC-Degree/#FLexible-Core)
+- [Finance Major Courses](https://github.com/assya92/MOOC-Degree/#Finance-Major )
 
 
 ## MBA Curriculum 
@@ -170,6 +170,12 @@ Course |   University  | Duration | Effort | Certificate
 [Finance for Non-Financial Professionals](https://www.coursera.org/learn/finance-for-non-finance-managers) | University of California, Irvine  | 4 weeks | 1-2 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/TFF57JEEGG6Z)
 [Communication in the 21st Century Workplace](https://www.coursera.org/learn/communication-in-the-workplace) | University of California, Irvine  | 4 weeks | 1-2 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/AKJN3C676BNL)
 [Project Management: The Basics for Success](https://www.coursera.org/learn/project-management-basics) | University of California, Irvine  | 4 weeks | 1-2 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/SW7G6RVNRMBM)
+[Intro to International Marketing](https://www.coursera.org/learn/intro-international-marketing) | Yonsei University   | 3 weeks | 1-2 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/S9XGQUFR4KDC)
+[International Marketing Entry and Execution](https://www.coursera.org/learn/international-marketing-entry-execution) | Yonsei University   | 4 weeks | 1-2 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/552Q3MRCWUZT)
+[International B2B (Business to Business) Marketing](https://www.coursera.org/learn/b2b-marketing) | Yonsei University   | 3 weeks | 1-2 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/QETC2MK8HVWX)
+[International Entertainment and Sports Marketing](https://www.coursera.org/learn/international-entertainment-sports-marketing) | Yonsei University   | 3 weeks | 2-3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/DEC4RWLN42EA)
+[International Hospitality & Healthcare Services Marketing](https://www.coursera.org/learn/healthcare-marketing-hospitality-management) | Yonsei University   | 3 weeks | 1-2 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/VW3CS8B53BQS)
+
 
 
 
