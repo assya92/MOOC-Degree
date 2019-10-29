@@ -197,8 +197,86 @@ Course |   University  | Duration | Effort | Certificate
 [Bioinformatic Methods I](https://www.coursera.org/learn/bioinformatics-methods-1) | University of Toronto | 8 weeks | 2-4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/RF6ZCZ8XM98G)
 [Bioinformatic Methods II](https://www.coursera.org/learn/bioinformatics-methods-2) | University of Toronto | 8 weeks | 2-4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/N7LD2D8YTGNV)
 [Genes and the Human Condition (From Behavior to Biotechnology)](https://www.coursera.org/learn/genes) |University of Maryland, College Park | 8 weeks | 2-3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/XMRW3X85J7LJ)
-[Genomic Data Science Specialization)](https://www.coursera.org/specializations/genomic-data-science) |Johns Hopkins University |Approx. 6 months to complete | 7 Hours/Week|[Verify Certificate]()
-[Introduction to Genomic Technologies)](https://www.coursera.org/learn/introduction-genomics) |Johns Hopkins University |4 weeks | 2 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/Z2S657R687ZF)
+[Genomic Data Science Specialization](https://www.coursera.org/specializations/genomic-data-science) |Johns Hopkins University |Approx. 6 months to complete | 7 Hours/Week|[Verify Certificate]
+[Introduction to Genomic Technologies](https://www.coursera.org/learn/introduction-genomics) |Johns Hopkins University |4 weeks | 2 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/Z2S657R687ZF)
+[Genomic Data Science with Galaxy](https://www.coursera.org/learn/galaxy-project?specialization=genomic-data-science) |Johns Hopkins University |4 weeks | 3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/G24W3M7T3D3E)
+[Python for Genomic Data Science](https://www.coursera.org/learn/python-genomics?specialization=genomic-data-science) |Johns Hopkins University |4 weeks | 2-3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/YFSLNUWKUXWC)
+[Algorithms for DNA Sequencing](https://www.coursera.org/learn/dna-sequencing?specialization=genomic-data-science) |Johns Hopkins University |4 weeks | 5-6 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/SWSB342S6KU4)
+[Command Line Tools for Genomic Data Science](https://www.coursera.org/learn/genomic-tools) |Johns Hopkins University |4 weeks | 6-7 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/G7UX37S866WG)
+[Bioconductor for Genomic Data Science](https://www.coursera.org/learn/bioconductor) |Johns Hopkins University |4 weeks | 3-4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/HS3YNBB2M4BC)
+[Statistics for Genomic Data Science](https://www.coursera.org/learn/statistical-genomics) |Johns Hopkins University |4 weeks | 4-5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/6ERX7U88XLMG)
+[Genomic Data Science Capstone](https://www.coursera.org/learn/genomic-data-science-project) |Johns Hopkins University |8 weeks | 2-4 Hours/Week|[Verify Certificate] Starts in December
+
+
+
+## Raw certificates 
+• Doing Clinical Research: Biostatistics with the Wolfram Languague https://www.coursera.org/account/accomplishments/records/8HQGR22YEA84
+
+• HI-FIVE: Health Informatics For Innovation, Value & Enrichment (Administrative/IT Perspective) https://www.coursera.org/account/accomplishments/records/Q7MAEVTTJ9BS
+
+• HI-FIVE: Health Informatics For Innovation, Value & Enrichment (Clinical Perspective) https://www.coursera.org/account/accomplishments/records/Z3B7TS95NHYS
+
+• HI-FIVE: Health Informatics For Innovation, Value & Enrichment (Social/Peer Perspective) https://www.coursera.org/account/accomplishments/records/2BL58GL4C94L
+
+• Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning https://www.coursera.org/account/accomplishments/records/G25AHUBAN7LY
+
+• Convolutional Neural Networks in TensorFlow https://www.coursera.org/account/accomplishments/records/4RHPWN95FRA5
+
+• Natural Language Processing in TensorFlow https://www.coursera.org/account/accomplishments/records/QPXMNU76JXQL
+
+• Sequences, Time Series and Prediction https://www.coursera.org/account/accomplishments/records/BNDARYL7ZTH2
+
+• Mathematics for Machine Learning: PCA https://www.coursera.org/account/accomplishments/records/UHK8435T24TD
+
+• Mathematics for Machine Learning: Multivariate Calculus https://www.coursera.org/account/accomplishments/records/RHBASGQE9FDA
+
+• Mathematics for Machine Learning: Linear Algebra https://www.coursera.org/account/accomplishments/records/KMB5NXLCHXD7
+
+• The Science of Stem Cells https://www.coursera.org/account/accomplishments/records/S2EAXRTSC9JX
+
+• Introduction to Systems Biology https://www.coursera.org/account/accomplishments/records/MPC9SXGDX84K
+
+• Experimental Methods in Systems Biology https://www.coursera.org/account/accomplishments/records/39F3SCHKAXY2
+
+• Dynamical Modeling Methods for Systems Biology https://www.coursera.org/account/accomplishments/records/E4HFQ3NCRKJV
+
+• Integrated Analysis in Systems Biology https://www.coursera.org/account/accomplishments/records/Y7NJJDZGYCRG
+
+• Network Analysis in Systems Biology https://www.coursera.org/account/accomplishments/records/WVQLLH3USS3Q
+
+• Neural Networks and Deep Learning https://www.coursera.org/account/accomplishments/records/JXRSYAHMFG9N
+
+• Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization: https://www.coursera.org/account/accomplishments/records/JGQQHYFW8REA
+
+• Structuring Machine Learning Projects https://www.coursera.org/account/accomplishments/records/KLPS25EQX7H4
+
+• Convolutional Neural Networks https://www.coursera.org/account/accomplishments/records/UWRZKXHJFR62
+
+• Sequence Models https://www.coursera.org/account/accomplishments/records/9M32XQ77VRTX
+
+• Introduction to Data Science in Python https://www.coursera.org/account/accomplishments/records/97LTHC5XKDTN
+
+• Applied Machine Learning in Python https://www.coursera.org/account/accomplishments/records/WV8772GCTAEX
+
+• Applied Text Mining in Python https://www.coursera.org/account/accomplishments/records/X4F5SXDKB9TP
+
+• Applied Social Network Analysis in Python https://www.coursera.org/account/accomplishments/records/R62YXLU2GT2Q • Introductory Human Physiology
+
+https://www.coursera.org/account/accomplishments/records/FGY5VQ4AU2NK
+• Introduction to Translational Science https://www.coursera.org/account/accomplishments/records/BPFZCTGJLDG9
+
+• Regression Modeling in Practice https://www.coursera.org/account/accomplishments/records/AUQV2FWVHT2D
+
+• Data Analysis Tools https://www.coursera.org/account/accomplishments/records/7QJJT6FMTX67
+
+• Data Management and Visualization https://www.coursera.org/account/accomplishments/records/WM6MCZM9AA6R
+
+• Programming for Everybody (Getting Started with Python) https://www.coursera.org/account/accomplishments/records/L8YZV2QXLW2H
+
+• Practical Time Series Analysis https://www.coursera.org/account/accomplishments/records/259LM65F95SR
+
+•Machine Learning for Data Analysis https://www.coursera.org/account/accomplishments/records/78DCBXGDZ4GP
+
 
 
 
