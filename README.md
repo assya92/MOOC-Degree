@@ -57,21 +57,21 @@ Course | University | Duration | Effort | Certificate
 
      # FLexible Core
   
-Course | University | Duration | Effort | Certificate
-:-- | :--: | :--: | :--: | :--:
-[Essentials of Corporate Finance Specialization](https://www.coursera.org/learn/strategy-law-ethics) |  The University of Melbourne  | Approx. 6 months to complete | 4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/specialization/KPWD4GBNJ6GJ)
-[The Language and Tools of Financial Analysis](https://www.coursera.org/learn/financial-analysis?specialization=learn-finance) | The University of Melbourne | 4 weeks | 4-6 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/verify/P8ZL8FDAXVLR)
-[The Role of Global Capital Markets](https://www.coursera.org/learn/capital-markets?specialization=learn-finance) | The University of Melbourne | 4 weeks | 4-6 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/verify/VM3KJKPPZ7QM)
+Course |   University  | Duration | Effort | Certificate
+:-- | :--: |   :--:  | :--: | :--:
+[Essentials of Corporate Finance Specialization](https://www.coursera.org/specializations/learn-finance) |  The University of Melbourne-Faculty of Business and Economics  | Approx. 6 months to complete | 4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/specialization/KPWD4GBNJ6GJ)
+[The Language and Tools of Financial Analysis](https://www.coursera.org/learn/financial-analysis?specialization=learn-finance) | The University of Melbourne-Faculty of Business and Economics | 4 weeks | 4-6 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/verify/P8ZL8FDAXVLR)
+[The Role of Global Capital Markets](https://www.coursera.org/learn/capital-markets?specialization=learn-finance) | The University of Melbourne - Faculty of Business and Economics | 4 weeks | 4-6 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/verify/VM3KJKPPZ7QM)
 [Corporate Financial Decision-Making for Value Creation](https://www.coursera.org/learn/value-creation?specialization=learn-finance) | The University of Melbourne | 4 weeks | 4-6 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/verify/ZJMMSWG4DEKG)
-[Alternative Approaches to Valuation and Investment](https://www.coursera.org/learn/valuation?specialization=learn-finance) | The University of Melbourne | 4 weeks | 4-6 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/verify/YGKB9GV9ZNQ9)
-[Essentials of Corporate Finance Capstone](https://www.coursera.org/learn/financial-analysis-project) | The University of Melbourne | 4 weeks | 4-6 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/verify/VAHCDFG2ZKWC)
+[Alternative Approaches to Valuation and Investment](https://www.coursera.org/learn/valuation?specialization=learn-finance) | The University of Melbourne - Faculty of Business and Economics | 4 weeks | 4-6 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/verify/YGKB9GV9ZNQ9)
+[Essentials of Corporate Finance Capstone](https://www.coursera.org/learn/financial-analysis-project) | The University of Melbourne-Faculty of Business and Economics | 4 weeks | 4-6 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/verify/VAHCDFG2ZKWC)
 [The Power of Macroeconomics: Economic Principles in the Real World](https://www.coursera.org/learn/principles-of-macroeconomics) |  University of California, Irvine |  13 weeks  | Approx. 25 hours to complete|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/HKSXFXKTJSV3)
 [Making Successful Decisions through the Strategy, Law & Ethics Model](https://www.coursera.org/learn/strategy-law-ethics) |  University of Michigan | 10 weeks | 1-3 Hours/Week|[Verify Certificate](https://)
 [Strategic Management and Innovation Specialization](https://www.coursera.org/specializations/strategic-management) |  Copenhagen Business School  | Approx. 5 months to complete | 4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/specialization/3RX7FFNQDXC7)
 [Strategic Management](https://www.coursera.org/specializations/strategic-management) |  Copenhagen Business School  | 4 weeks | 2-4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/verify/TTL9ZDP5R3GQ)
 [Strategy Formulation](https://www.coursera.org/learn/strategy-formulation) |  Copenhagen Business School  | 6 weeks | 3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/verify/N93F2JMNAJX4)
 [Strategy Implementation](https://www.coursera.org/learn/strategy-implementation) |  Copenhagen Business School  | 6 weeks | 2-4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/verify/GYVWX7NT275U)
-[Strategic Management - Capstone Project](https://www.coursera.org/learn/businesscap) |  Copenhagen Business School  | 6 weeks | 2 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/verify/37WQMTS2LPPS)
+[Strategic Management - Capstone Project](https://www.coursera.org/learn/businesscap) |    Copenhagen Business School  | 6 weeks | 2 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/verify/37WQMTS2LPPS)
 
 
 
