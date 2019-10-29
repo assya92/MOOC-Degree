@@ -117,7 +117,14 @@ Course |   University  | Duration | Effort | Certificate
 [Corporate Finance II: Financing Investments and Managing Risk](https://www.coursera.org/learn/corporate-finance-two) |  University of Illinois at Urbana-Champaign  | 4 weeks | 8 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/KJ44ZBQ5GKWQ)
 [Computational Investing, Part I](https://www.coursera.org/learn/computational-investing) |  Georgia Institute of Technology  | 8 weeks | 8-12 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/BXCYMJAKUS45)
 [Private Equity and Venture Capital](https://www.coursera.org/learn/private-equity) |  Università Bocconi  | 5 weeks | 1-2 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/AUTZKKGS6E6M)
-[FinTech and the Transformation in Financial Services](https://www.coursera.org/learn/fintech-transformation-financial-services)|  Copenhagen Business School   | 4 weeks | 9 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/EX7ZYXTU6JKT)
+[FinTech and the Transformation in Financial Services](https://www.coursera.org/learn/fintech-transformation-financial-services)|  Copenhagen Business School   | 4 weeks | 3-4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/EX7ZYXTU6JKT)
+[Stochastic processes](https://www.coursera.org/learn/stochasticprocesses)| National Research University Higher School of Economics   | 8 weeks | 6-8 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/HPJDB5MRUSMU)
+[Business and Financial Modeling Specialization](https://www.coursera.org/specializations/wharton-business-financial-modeling)| University of Pennsylvania-The Wharton School  | Approx. 2 months to complete | 9 Hours/Week|[Verify Certificate]
+[Fundamentals of Quantitative Modeling](https://www.coursera.org/learn/wharton-quantitative-modeling?specialization=wharton-business-financial-modeling)| University of Pennsylvania  | 4 weeks | 1-3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/MT6M9N2HCC3W)
+[Introduction to Spreadsheets and Models](https://www.coursera.org/learn/wharton-introduction-spreadsheets-models?specialization=wharton-business-financial-modeling)| University of Pennsylvania - The Wharton School  | 4 weeks | 1-3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/AGMRFAQWU9N2)
+[Modeling Risk and Realities](https://www.coursera.org/learn/wharton-risk-models?specialization=wharton-business-financial-modeling)| University of Pennsylvania - The Wharton School  | 4 weeks | 1-3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/VVXHSX77A3LN)
+[Decision-Making and Scenarios](https://www.coursera.org/learn/wharton-decision-making-scenarios)| University of Pennsylvania - The Wharton School  | 4 weeks | 1-3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/3YPT4TVREXU6)
+
 
      
 
