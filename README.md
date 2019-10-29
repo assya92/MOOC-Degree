@@ -104,6 +104,8 @@ Course |   University  | Duration | Effort | Certificate
 :-- | :--: |   :--:  | :--: | :--:
 [Financial Markets](https://www.coursera.org/learn/financial-markets-global) |  Yale University   | 7 weeks | 3-4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/N4GXPRZ7CPQX)
 [Economics of Money and Banking](https://www.coursera.org/learn/money-banking) |  Columbia University   | 13 weeks | 5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/93R68K3WZFYY)
+[Financial Engineering and Risk Management Part I](https://www.coursera.org/learn/financial-engineering-1) |  Columbia University   | 8 weeks | 4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/STDW3WXEYGNW)
+[Financial Engineering and Risk Management Part II](https://www.coursera.org/learn/financial-engineering-2) |  Columbia University   |7 weeks | 3-4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/6STQXJMQC27B)
 [Behavioral Finance](https://www.coursera.org/learn/duke-behavioral-finance) |  Duke University  | 3 weeks | 1 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/93R68K3WZFYY)
 [Investment Management Specialization](https://www.coursera.org/specializations/investment-management) | University of Geneva-Geneva Finance Research Institute  | 4 months to complete | 8 Hours/Week|[Verify Certificate]
 [Understanding Financial Markets](https://www.coursera.org/learn/understanding-financial-markets?specialization=investment-management) | University of Geneva-Geneva Finance Research Institute  | 4 weeks | 8 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/V2XK5W2TELML)
@@ -113,6 +115,10 @@ Course |   University  | Duration | Effort | Certificate
 [Investments II: Lessons and Applications for Investors](https://www.coursera.org/learn/investments-applications) |    University of Illinois at Urbana-Champaign  | 4 weeks | 6 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/PGSU6QDPKF64)
 [Corporate Finance I: Measuring and Promoting Value Creation](https://www.coursera.org/learn/corporate-finance-measure-success) |    University of Illinois at Urbana-Champaign  | 4 weeks | 2-4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/6ZRUJCHAML3A)
 [Corporate Finance II: Financing Investments and Managing Risk](https://www.coursera.org/learn/corporate-finance-two) |  University of Illinois at Urbana-Champaign  | 4 weeks | 8 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/KJ44ZBQ5GKWQ)
+[Computational Investing, Part I](https://www.coursera.org/learn/computational-investing) |  Georgia Institute of Technology  | 8 weeks | 8-12 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/BXCYMJAKUS45)
+[Private Equity and Venture Capital](https://www.coursera.org/learn/private-equity) |  Università Bocconi  | 5 weeks | 1-2 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/AUTZKKGS6E6M)
+[FinTech and the Transformation in Financial Services](https://www.coursera.org/learn/fintech-transformation-financial-services)|  Copenhagen Business School   | 4 weeks | 9 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/EX7ZYXTU6JKT)
+
      
 
 
