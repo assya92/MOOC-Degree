@@ -7,11 +7,12 @@ I mainly took courses offered by Coursera as they accorded me financial assistan
 
 ## Contents
 
-1. [MBA Curriculum](https://github.com/assya92/MOOC-Degree/#MBA-Curriculum)
+1) [MBA Curriculum](https://github.com/assya92/MOOC-Degree/#MBA-Curriculum)
 - [ Fixed Core courses](https://github.com/assya92/MOOC-Degree/#Fixed-Core)
 - [ FLexible Core Courses](https://github.com/assya92/MOOC-Degree/#FLexible-Core)
 - [Finance Major Courses](https://github.com/assya92/MOOC-Degree/#Finance-Major )
 -[Elective Courses](https://github.com/assya92/MOOC-Degree/#Electives )
+2) [Ms Bioinformatics/Health Informatics courses ](https://github.com/assya92/MOOC-Degree/#MS-Bioinformatics-/-Health-Infomrmatics-Courses)
 
 
 ## MBA Curriculum 
@@ -179,6 +180,8 @@ Course |   University  | Duration | Effort | Certificate
 [International Entertainment and Sports Marketing](https://www.coursera.org/learn/international-entertainment-sports-marketing) | Yonsei University   | 3 weeks | 2-3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/DEC4RWLN42EA)
 [International Hospitality & Healthcare Services Marketing](https://www.coursera.org/learn/healthcare-marketing-hospitality-management) | Yonsei University   | 3 weeks | 1-2 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/VW3CS8B53BQS)
 
+
+## MS Bioinformatics / Health Infomrmatics Courses
 
 
 
