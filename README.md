@@ -125,6 +125,17 @@ Course |   University  | Duration | Effort | Certificate
 [Modeling Risk and Realities](https://www.coursera.org/learn/wharton-risk-models?specialization=wharton-business-financial-modeling)| University of Pennsylvania - The Wharton School  | 4 weeks | 1-3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/VVXHSX77A3LN)
 [Decision-Making and Scenarios](https://www.coursera.org/learn/wharton-decision-making-scenarios)| University of Pennsylvania - The Wharton School  | 4 weeks | 1-3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/3YPT4TVREXU6)
 
+     ## Electives
+Course |   University  | Duration | Effort | Certificate
+:-- | :--: |   :--:  | :--: | :--:
+[Introduction to Project Management Principles and Practices Specialization (4 courses)](https://www.coursera.org/specializations/project-management)| University of California, Irvine  | Approx. 2 months to complete | 6 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/specialization/NBAE2A94XE4C)
+[Content Strategy for Professionals Specialization (5 courses)](https://www.coursera.org/specializations/content-strategy)| Northwestern University  | Approx. 2 months to complete | 6 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/specialization/A79RRSKMJWTZ)
+[Digital Marketing Specialization  (6 courses)](https://www.coursera.org/specializations/digital-marketing)| University of Illinois at Urbana-Champaign   | Approx. 2 months to complete | 6-8 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/specialization/9ZNTD7LVTMA6)
+
+
+
+
+
 
      
 
