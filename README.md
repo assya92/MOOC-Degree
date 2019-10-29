@@ -13,14 +13,14 @@ I mainely took courses offered by Coursera as they accorded me financial assista
 - [Finance Major Courses ](https://github.com/assya92/MOOC-Degree/#FinanceMajor )
 
 
-# MBA Curriculum 
+## MBA Curriculum 
 
 The MBA curriculum is inspired by the MBA program of Wharton School of the University of Pennsylvania as it is one the best in the world and all almost their core courses are available on Coursera.
 
 [Wharton Business school MBA curriculum](https://apps.wharton.upenn.edu/spike/mbaprogram/curriculum/curriculum_snapshot.pdf) or [Wharton Business school MBA curriculum](https://mba-inside.wharton.upenn.edu/wp-content/uploads/2019/07/FINAL-WG21-Wharton-Core-Curriculum.pdf)
        
        
-       # Fixed Core
+       ## Fixed Core
   
 Course | University | Duration | Effort | Certificate
 :-- | :--: | :--: | :--: | :--:
@@ -67,7 +67,7 @@ Course | University | Duration | Effort | Certificate
 
 
 
-     # FLexible Core
+     ## FLexible Core
   
 Course |   University  | Duration | Effort | Certificate
 :-- | :--: |   :--:  | :--: | :--:
@@ -99,7 +99,7 @@ Course |   University  | Duration | Effort | Certificate
 [Digital Business Models](https://www.coursera.org/learn/digital-business-models) |  Lund University  | 4 weeks | 2-3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/MXJ6QEGSFTD6 )
 [Customer-Centric IT Strategy](https://www.coursera.org/learn/uva-darden-customer-centric-it-strategy) |  University of Virginia | 2 weeks | 1-2 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/UFQJL5685RMF )
 
-     # Finance Major 
+     ## Finance Major 
 Course |   University  | Duration | Effort | Certificate
 :-- | :--: |   :--:  | :--: | :--:
 [Financial Markets](https://www.coursera.org/learn/financial-markets-global) |  Yale University   | 7 weeks | 3-4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/N4GXPRZ7CPQX)
