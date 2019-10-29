@@ -128,9 +128,18 @@ Course |   University  | Duration | Effort | Certificate
      ## Electives
 Course |   University  | Duration | Effort | Certificate
 :-- | :--: |   :--:  | :--: | :--:
+[ Organizational Analysis](https://www.coursera.org/learn/organizational-analysis)| Stanford University   | 11 weeks | 2-5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/6AAJ5DQWY5NB)
+[Game Theory](https://www.coursera.org/learn/game-theory-1)|Stanford University & The University of British Columbia  | 8 weeks | 5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/C5SVTM9AM5TM)
+[ Game Theory II: Advanced Applications](https://www.coursera.org/learn/game-theory-2)|Stanford University & The University of British Columbia  | 5 weeks | 5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/88P9H3WFJSVF)
+[ Model Thinking](https://www.coursera.org/learn/model-thinking)| University of Michigan   | 12 weeks | 4-8 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/BZ5YEWWQJZYP)
 [Introduction to Project Management Principles and Practices Specialization (4 courses)](https://www.coursera.org/specializations/project-management)| University of California, Irvine  | Approx. 2 months to complete | 6 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/specialization/NBAE2A94XE4C)
 [Content Strategy for Professionals Specialization (5 courses)](https://www.coursera.org/specializations/content-strategy)| Northwestern University  | Approx. 2 months to complete | 6 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/specialization/A79RRSKMJWTZ)
 [Digital Marketing Specialization  (6 courses)](https://www.coursera.org/specializations/digital-marketing)| University of Illinois at Urbana-Champaign   | Approx. 2 months to complete | 6-8 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/specialization/9ZNTD7LVTMA6)
+[Social Media Marketing Specialization (6 courses)](https://www.coursera.org/specializations/social-media-marketing)| Northwestern University  | Approx. 5 months to complete | 4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/specialization/S9UWJNZ3LYMN)
+[ Introduction to Environmental Law and Policy](https://www.coursera.org/learn/environmental-law)| The University of North Carolina at Chapel Hill  | 6 weeks | 4-6 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/2EQYY6MQ3ER6)
+
+
+
 
 
 
