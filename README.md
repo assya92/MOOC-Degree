@@ -75,6 +75,8 @@ Course |   University  | Duration | Effort | Certificate
 [Corporate Strategy](https://www.coursera.org/learn/corporate-strategy) |    University of Illinois at Urbana-Champaign  | 4 weeks | 5-7 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/WKYE8LFZ3FAE)
 [Global Strategy I: How The Global Economy Works](https://www.coursera.org/learn/global-strategy) |    University of Illinois at Urbana-Champaign  | 4 weeks | 4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/RPRBWNW8T2FZ)
 [Global Strategy II: Doing Business in The Global Economy](https://www.coursera.org/learn/global-strategy-two) |    University of Illinois at Urbana-Champaign  | 4 weeks | 4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/98QYYY58923C)
+[Operations Management: Strategy and Quality Management for the Digital Age/Process Improvement](https://www.coursera.org/learn/process-improvement) |    University of Illinois at Urbana-Champaign  | 4 weeks | 6-8 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/HRFHH859JUW3)
+[Scaling Operations: Linking Strategy and Execution](https://www.coursera.org/learn/operations-strategy) |    Northwestern University-the Kellogg School of Management   | 5 weeks | 2-4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/AASHWA9NBGR9)
 
 
 
