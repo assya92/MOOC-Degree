@@ -107,8 +107,12 @@ Course |   University  | Duration | Effort | Certificate
 [Behavioral Finance](https://www.coursera.org/learn/duke-behavioral-finance) |  Duke University  | 3 weeks | 1 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/93R68K3WZFYY)
 [Investment Management Specialization](https://www.coursera.org/specializations/investment-management) | University of Geneva-Geneva Finance Research Institute  | 4 months to complete | 8 Hours/Week|[Verify Certificate]
 [Understanding Financial Markets](https://www.coursera.org/learn/understanding-financial-markets?specialization=investment-management) | University of Geneva-Geneva Finance Research Institute  | 4 weeks | 8 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/V2XK5W2TELML)
-
-
+[Meeting Investors' Goals](https://www.coursera.org/learn/meeting-investors-goals?specialization=investment-management) | University of Geneva-Geneva Finance Research Institute  | 4 weeks | 7 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/QBN4WM96VD9G)
+[Portfolio and Risk Management](https://www.coursera.org/learn/portfolio-risk-management?specialization=investment-management) | University of Geneva-Geneva Finance Research Institute  | 4 weeks | 1-3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/J35AJRQUDA95)
+[Securing Investment Returns in the Long Run](https://www.coursera.org/learn/investment-returns-long-run?specialization=investment-management) | University of Geneva-Geneva Finance Research Institute  | 4 weeks | 1-3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/AXRDMCG9CHRG)
+[Investments II: Lessons and Applications for Investors](https://www.coursera.org/learn/investments-applications) |    University of Illinois at Urbana-Champaign  | 4 weeks | 6 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/PGSU6QDPKF64)
+[Corporate Finance I: Measuring and Promoting Value Creation](https://www.coursera.org/learn/corporate-finance-measure-success) |    University of Illinois at Urbana-Champaign  | 4 weeks | 2-4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/6ZRUJCHAML3A)
+[Corporate Finance II: Financing Investments and Managing Risk](https://www.coursera.org/learn/corporate-finance-two) |  University of Illinois at Urbana-Champaign  | 4 weeks | 8 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/KJ44ZBQ5GKWQ)
      
 
 
