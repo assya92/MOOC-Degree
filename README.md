@@ -143,6 +143,15 @@ Course |   University  | Duration | Effort | Certificate
 [Competitive Strategy](https://www.coursera.org/learn/competitive-strategy)| Ludwig-Maximilians-Universität München (LMU)  | 6 weeks | 2-4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/GBUBXQPY3AN3)
 [ Advanced Competitive Strategy](https://www.coursera.org/learn/advanced-competitive-strategy)| Ludwig-Maximilians-Universität München (LMU)  | 8 weeks | 2-3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/GB97K8UXGTH2)
 [Strategic Organization Design](https://www.coursera.org/learn/organization-design)| Ludwig-Maximilians-Universität München (LMU)  | 6 weeks | 5.5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/762PE4PWKBQP)
+[Social Impact Strategy: Tools for Entrepreneurs and Innovators](https://www.coursera.org/learn/social-impact)| University of Pennsylvania | 4 weeks | 2-4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/R88NVTXRX3A3)
+[Global Trends for Business and Society](https://www.coursera.org/learn/wharton-global-trends-business) | University of Pennsylvania | 4 weeks | 2-3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/AY2FMKGTWGHQ)
+[Social Entrepreneurship](https://www.coursera.org/learn/wharton-social-entrepreneurship) | University of Pennsylvania - The Wharton School  | 4 weeks | 2-3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/PTNXZW3QWN69)
+[Entrepreneurship 1: Developing the Opportunity](https://www.coursera.org/learn/wharton-entrepreneurship-opportunity) | University of Pennsylvania -The Wharton School   | 4 weeks | 1-2 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/F9F4BMQXYHKH)
+[Entrepreneurship 2: Launching your Start-Up](https://www.coursera.org/learn/wharton-launching-startup) | University of Pennsylvania -The Wharton School   | 4 weeks | 1-3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/NTGR528VQYND)
+[Entrepreneurship 3: Growth Strategies](https://www.coursera.org/learn/growth-strategy) | University of Pennsylvania -The Wharton School   | 4 weeks | 1-2 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/48SZXCHXWVF2)
+[Entrepreneurship 4: Financing and Profitability](https://www.coursera.org/learn/wharton-entrepreneurship-financing-profitabilty) | University of Pennsylvania -The Wharton School   | 4 weeks | 1-2 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/2H54YT7XAS4W)
+[Healthcare Innovation and Entrepreneurship](https://www.coursera.org/learn/healthcare-innovation) | Duke University  | 5 weeks | 2-4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/YHYUPT5CQ6X6)
+[Réussir le Changement](https://www.coursera.org/learn/reussir-le-changement) |  ESSEC Business School | 7 weeks | 2-3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/QDYJ3PFS6YS3)
 
 
 
