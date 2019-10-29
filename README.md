@@ -7,10 +7,11 @@ I mainly took courses offered by Coursera as they accorded me financial assistan
 
 ## Contents
 
-- [MBA Curriculum](https://github.com/assya92/MOOC-Degree/#MBA-Curriculum)
+1. [MBA Curriculum](https://github.com/assya92/MOOC-Degree/#MBA-Curriculum)
 - [ Fixed Core courses](https://github.com/assya92/MOOC-Degree/#Fixed-Core)
 - [ FLexible Core Courses](https://github.com/assya92/MOOC-Degree/#FLexible-Core)
 - [Finance Major Courses](https://github.com/assya92/MOOC-Degree/#Finance-Major )
+-[Elective Courses](https://github.com/assya92/MOOC-Degree/#Electives )
 
 
 ## MBA Curriculum 
