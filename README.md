@@ -83,6 +83,22 @@ Course |   University  | Duration | Effort | Certificate
 [People Analytics](https://www.coursera.org/learn/wharton-people-analytics?specialization=business-analytics) | University of Pennsylvania-The Wharton School | 4 weeks | 1-2 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/verify/MW846JY36HTZ )
 [Accounting Analytics](https://www.coursera.org/learn/accounting-analytics?specialization=business-analytics) | University of Pennsylvania-The Wharton School | 4 weeks | 3-5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/verify/8HCDAMBAWADY )
 [Business Analytics Capstone](https://www.coursera.org/learn/wharton-capstone-analytics) | University of Pennsylvania-The Wharton School | 4 weeks | 4-5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/verify/6KYQXCT3MQD3 )
+[Digital Transformation](https://www.coursera.org/learn/bcg-uva-darden-digital-transformation) | BCG & University of Virginia | 4 weeks | 2-3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/certificate/SW7CFCDQEBAF )
+[Digital Business Models](https://www.coursera.org/learn/digital-business-models) |  Lund University  | 4 weeks | 2-3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/MXJ6QEGSFTD6 )
+[Customer-Centric IT Strategy](https://www.coursera.org/learn/uva-darden-customer-centric-it-strategy) |  University of Virginia | 2 weeks | 1-2 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/UFQJL5685RMF )
+
+     # Finance Major 
+Course |   University  | Duration | Effort | Certificate
+:-- | :--: |   :--:  | :--: | :--:
+[Financial Markets](https://www.coursera.org/learn/financial-markets-global) |  Yale University   | 7 weeks | 3-4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/N4GXPRZ7CPQX)
+[Economics of Money and Banking](https://www.coursera.org/learn/money-banking) |  Columbia University   | 13 weeks | 5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/93R68K3WZFYY)
+[Behavioral Finance](https://www.coursera.org/learn/duke-behavioral-finance) |  Duke University  | 3 weeks | 1 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/93R68K3WZFYY)
+[Investment Management Specialization](https://www.coursera.org/specializations/investment-management) | University of Geneva-Geneva Finance Research Institute  | 4 months to complete | 8 Hours/Week|[Verify Certificate]
+[Understanding Financial Markets](https://www.coursera.org/learn/understanding-financial-markets?specialization=investment-management) | University of Geneva-Geneva Finance Research Institute  | 4 weeks | 8 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/V2XK5W2TELML)
+
+
+     
+
 
 
 
