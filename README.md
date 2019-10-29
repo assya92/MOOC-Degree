@@ -179,20 +179,30 @@ Course |   University  | Duration | Effort | Certificate
 [International B2B (Business to Business) Marketing](https://www.coursera.org/learn/b2b-marketing) | Yonsei University   | 3 weeks | 1-2 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/QETC2MK8HVWX)
 [International Entertainment and Sports Marketing](https://www.coursera.org/learn/international-entertainment-sports-marketing) | Yonsei University   | 3 weeks | 2-3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/DEC4RWLN42EA)
 [International Hospitality & Healthcare Services Marketing](https://www.coursera.org/learn/healthcare-marketing-hospitality-management) | Yonsei University   | 3 weeks | 1-2 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/VW3CS8B53BQS)
-[Executive Data Science Specialization (5 courses)](https://www.coursera.org/specializations/executive-data-science) |Johns Hopkins University | Approx. 1 month to complete | 4-6 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/specialization/HHP62YNZ29ZU))
+[Executive Data Science Specialization (5 courses)](https://www.coursera.org/specializations/executive-data-science) |Johns Hopkins University | Approx. 1 month to complete | 4-6 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/specialization/HHP62YNZ29ZU)
 
 
 
 
-## MS Bioinformatics / Health Infomrmatics Courses
+## MS Bioinformatics / Health Informatics Courses
 
 Course |   University  | Duration | Effort | Certificate
 :-- | :--: |   :--:  | :--: | :--:
 [Introduction to Biology - The Secret of Life](https://www.edx.org/course/introduction-biology-secret-life-mitx-7-00x-2) |MIT   | 12 weeks | 7-14 Hours/Week|Audited only
-[Mathematical Biostatistics Boot Camp 1](https://www.coursera.org/learn/biostatistics) |Johns Hopkins University-Bloomberg School of Public Health | 4 weeks | 3-5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/specialization/HHP62YNZ29ZU))
-[Mathematical Biostatistics Boot Camp 2](https://www.coursera.org/learn/biostatistics-2) |Johns Hopkins University-Bloomberg School of Public Health | 4 weeks | 3-5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/7WPR4RNPDAS2))
-[Bayesian Statistics: From Concept to Data Analysis](https://www.coursera.org/learn/bayesian-statistics) |University of California, Santa Cruz  | 4 weeks | 2-5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/TFXSV4QU876V))
-[DNA Decoded](https://www.coursera.org/learn/dna-decoded) |McMaster University | 4 weeks | 8 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/J3G2N7VPUK6X))
+[Mathematical Biostatistics Boot Camp 1](https://www.coursera.org/learn/biostatistics) |Johns Hopkins University-Bloomberg School of Public Health | 4 weeks | 3-5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/specialization/HHP62YNZ29ZU)
+[Mathematical Biostatistics Boot Camp 2](https://www.coursera.org/learn/biostatistics-2) |Johns Hopkins University-Bloomberg School of Public Health | 4 weeks | 3-5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/7WPR4RNPDAS2)
+[Bayesian Statistics: From Concept to Data Analysis](https://www.coursera.org/learn/bayesian-statistics) |University of California, Santa Cruz  | 4 weeks | 2-5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/TFXSV4QU876V)
+[DNA Decoded](https://www.coursera.org/learn/dna-decoded) |McMaster University | 4 weeks | 8 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/J3G2N7VPUK6X)
+[Big Data Science with the BD2K-LINCS Data Coordination and Integration Center](https://www.coursera.org/learn/bd2k-lincs) | Icahn School of Medicine at Mount Sinai | 7 weeks | 4-5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/97EQPU4XPKAF)
+[Bioinformatic Methods I](https://www.coursera.org/learn/bioinformatics-methods-1) | University of Toronto | 8 weeks | 2-4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/RF6ZCZ8XM98G)
+[Bioinformatic Methods II](https://www.coursera.org/learn/bioinformatics-methods-2) | University of Toronto | 8 weeks | 2-4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/N7LD2D8YTGNV)
+[Genes and the Human Condition (From Behavior to Biotechnology)](https://www.coursera.org/learn/genes) |University of Maryland, College Park | 8 weeks | 2-3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/XMRW3X85J7LJ)
+[Genomic Data Science Specialization)](https://www.coursera.org/specializations/genomic-data-science) |Johns Hopkins University |Approx. 6 months to complete | 7 Hours/Week|[Verify Certificate]()
+[Introduction to Genomic Technologies)](https://www.coursera.org/learn/introduction-genomics) |Johns Hopkins University |4 weeks | 2 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/Z2S657R687ZF)
+
+
+
+
 
 
 
