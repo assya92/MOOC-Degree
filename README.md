@@ -1,7 +1,7 @@
 # MOOC-Degree
 A list of all the online courses I have taken which matches both an MBA as well as the set of courses taken in a traditional bioinformatics MS and took the liberty to add electives that I saw interesting and matched my educational goals.
 
-I mainely took courses offered by Coursera as they accorded me financial assistance for the certifcates and I audited some on other plateforms as well.
+I mainly took courses offered by Coursera as they accorded me financial assistance for the certifcates and I audited some on other plateforms as well.
 
 
 
@@ -16,6 +16,8 @@ I mainely took courses offered by Coursera as they accorded me financial assista
 ## MBA Curriculum 
 
 The MBA curriculum is inspired by the MBA program of Wharton School of the University of Pennsylvania as it is one the best in the world and all almost their core courses are available on Coursera.
+
+Wharton Business school MBA curriculum can be found here :
 
 [Wharton Business school MBA curriculum](https://apps.wharton.upenn.edu/spike/mbaprogram/curriculum/curriculum_snapshot.pdf) or [Wharton Business school MBA curriculum](https://mba-inside.wharton.upenn.edu/wp-content/uploads/2019/07/FINAL-WG21-Wharton-Core-Curriculum.pdf)
        
