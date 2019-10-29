@@ -88,6 +88,7 @@ Course |   University  | Duration | Effort | Certificate
 [Global Strategy I: How The Global Economy Works](https://www.coursera.org/learn/global-strategy) |    University of Illinois at Urbana-Champaign  | 4 weeks | 4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/RPRBWNW8T2FZ)
 [Global Strategy II: Doing Business in The Global Economy](https://www.coursera.org/learn/global-strategy-two) |    University of Illinois at Urbana-Champaign  | 4 weeks | 4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/98QYYY58923C)
 [Operations Management: Strategy and Quality Management for the Digital Age/Process Improvement](https://www.coursera.org/learn/process-improvement) |    University of Illinois at Urbana-Champaign  | 4 weeks | 6-8 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/HRFHH859JUW3)
+[Six Sigma Principles](https://www.coursera.org/learn/six-sigma-principles) | University System of Georgia    | 4 weeks | 10 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/SW2Y2MQRUMBZ)
 [Scaling Operations: Linking Strategy and Execution](https://www.coursera.org/learn/operations-strategy) |    Northwestern University-the Kellogg School of Management   | 5 weeks | 2-4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/AASHWA9NBGR9)
 [Business Analytics Specialization](https://www.coursera.org/specializations/business-analytics) | University of Pennsylvania-The Wharton School | Approx. 3 months to complete | 8 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/specialization/4MUM6DL4YYG9 )
 [Customer Analytics](https://www.coursera.org/learn/wharton-customer-analytics?specialization=business-analytics) | University of Pennsylvania-The Wharton School | 4 weeks | 5-6 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/verify/XWSQLJRUCH8P )
@@ -138,6 +139,7 @@ Course |   University  | Duration | Effort | Certificate
 [Digital Marketing Specialization  (6 courses)](https://www.coursera.org/specializations/digital-marketing)| University of Illinois at Urbana-Champaign   | Approx. 2 months to complete | 6-8 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/specialization/9ZNTD7LVTMA6)
 [Social Media Marketing Specialization (6 courses)](https://www.coursera.org/specializations/social-media-marketing)| Northwestern University  | Approx. 5 months to complete | 4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/specialization/S9UWJNZ3LYMN)
 [ Introduction to Environmental Law and Policy](https://www.coursera.org/learn/environmental-law)| The University of North Carolina at Chapel Hill  | 6 weeks | 4-6 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/2EQYY6MQ3ER6)
+[Foundations of Business Strategy](https://www.coursera.org/learn/uva-darden-foundations-business-strategy)| University of Virginia   | 4 weeks | 2-5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/TUCLHU8GC95C)
 [Business Growth Strategy](https://www.coursera.org/learn/uva-darden-business-growth-strategy)| University of Virginia   | 4 weeks | 2-6 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/36L7VVR9JED2)
 [Strategic Planning and Execution](https://www.coursera.org/learn/uva-darden-strategic-planning-execution)| University of Virginia   | 4 weeks | 2-5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/6JAWV72T3TGP)
 [Competitive Strategy](https://www.coursera.org/learn/competitive-strategy)| Ludwig-Maximilians-Universität München (LMU)  | 6 weeks | 2-4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/GBUBXQPY3AN3)
@@ -152,6 +154,29 @@ Course |   University  | Duration | Effort | Certificate
 [Entrepreneurship 4: Financing and Profitability](https://www.coursera.org/learn/wharton-entrepreneurship-financing-profitabilty) | University of Pennsylvania -The Wharton School   | 4 weeks | 1-2 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/2H54YT7XAS4W)
 [Healthcare Innovation and Entrepreneurship](https://www.coursera.org/learn/healthcare-innovation) | Duke University  | 5 weeks | 2-4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/YHYUPT5CQ6X6)
 [Réussir le Changement](https://www.coursera.org/learn/reussir-le-changement) |  ESSEC Business School | 7 weeks | 2-3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/QDYJ3PFS6YS3)
+[European Business Law: Understanding the Fundamentals](https://www.coursera.org/learn/european-law-fundamentals) |  Lund University  | 5 weeks | 10-15 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/B7Y2TXMR84RU )
+[International Leadership and Organizational Behavior](https://www.coursera.org/learn/organizational-behavior) |  Università Bocconi   | 6 weeks | 2 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/AVZK82XLKZ57 )
+[Mindware: Critical Thinking for the Information Age](https://www.coursera.org/learn/mindware) |  University of Michigan    | 4 weeks | 3-4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/RM3P8T6DM8NW)
+[Business Metrics for Data-Driven Companies](https://www.coursera.org/learn/analytics-business-metrics) | Duke University   | 4 weeks | 3-5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/ADVGVS3HV7CJ)
+[Data-driven Decision Making](https://www.coursera.org/learn/decision-making) | PwC   | 4 weeks | 6 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/84E4HGMCA7FD)
+[Problem Solving with Excel](https://www.coursera.org/learn/excel-analysis) | PwC   | 4 weeks | 3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/SJ6D27BBX59Y)
+[Data Visualization with Advanced Excel](https://www.coursera.org/learn/advanced-excel) | PwC   | 4 weeks | 3-4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/3EZMPTHWBAL9)
+[Quantitative Foundations for International Business](https://www.coursera.org/learn/quantitative-foundations-international-business) |  University of London   | 4 weeks | 5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/779TEMBX5K2A)
+[Effective Problem-Solving and Decision-Making](https://www.coursera.org/learn/problem-solving) | University of California, Irvine  | 4 weeks | 1-2 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/VPP8NRCJAJYH)
+[Work Smarter, Not Harder: Time Management for Personal & Professional Productivity](https://www.coursera.org/learn/work-smarter-not-harder) | University of California, Irvine  | 4 weeks | 1 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/GUZPX5TSUJ7M)
+[Fundamentals of Management](https://www.coursera.org/learn/fundamentals-of-management) | University of California, Irvine  | 4 weeks | 1-3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/UVMSLXDXFQJK)
+[The Art of Negotiation](https://www.coursera.org/learn/art-of-negotiation) | University of California, Irvine  | 4 weeks | 1-3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/C34JUY783PMG)
+[Essentials of Entrepreneurship: Thinking & Action](https://www.coursera.org/learn/entrepreneurial-thinking) | University of California, Irvine  | 4 weeks | 1-2 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/WGPKJ4R65C9G)
+[Finance for Non-Financial Professionals](https://www.coursera.org/learn/finance-for-non-finance-managers) | University of California, Irvine  | 4 weeks | 1-2 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/TFF57JEEGG6Z)
+[Communication in the 21st Century Workplace](https://www.coursera.org/learn/communication-in-the-workplace) | University of California, Irvine  | 4 weeks | 1-2 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/AKJN3C676BNL)
+[Project Management: The Basics for Success](https://www.coursera.org/learn/project-management-basics) | University of California, Irvine  | 4 weeks | 1-2 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/SW7G6RVNRMBM)
+
+
+
+
+
+
+
 
 
 
