@@ -7,10 +7,10 @@ I mainely took courses offered by Coursera as they accorded me financial assista
 
 ## Contents
 
-- [MBA Curriculum](https://github.com/assya92/MOOC-Degree/#MBACurriculum)
-- [ Fixed Core courses](https://github.com/assya92/MOOC-Degree/#FixedCore)
-- [ FLexible Core Courses ](https://github.com/assya92/MOOC-Degree/#FLexibleCore)
-- [Finance Major Courses ](https://github.com/assya92/MOOC-Degree/#FinanceMajor )
+- [MBA Curriculum](https://github.com/assya92/MOOC-Degree/#MBA-Curriculum)
+- [ Fixed Core courses](https://github.com/assya92/MOOC-Degree/#Fixed-Core)
+- [ FLexible Core Courses ](https://github.com/assya92/MOOC-Degree/#FLexible-Core)
+- [Finance Major Courses ](https://github.com/assya92/MOOC-Degree/#Finance-Major )
 
 
 ## MBA Curriculum 
