@@ -22,7 +22,7 @@ Wharton Business school MBA curriculum can be found here :
 [Wharton Business school MBA curriculum](https://apps.wharton.upenn.edu/spike/mbaprogram/curriculum/curriculum_snapshot.pdf) or [Wharton Business school MBA curriculum](https://mba-inside.wharton.upenn.edu/wp-content/uploads/2019/07/FINAL-WG21-Wharton-Core-Curriculum.pdf)
        
        
-       ## Fixed Core
+ ## Fixed Core
   
 Course | University | Duration | Effort | Certificate
 :-- | :--: | :--: | :--: | :--:
@@ -69,7 +69,7 @@ Course | University | Duration | Effort | Certificate
 
 
 
-     ## FLexible Core
+ ## FLexible Core
   
 Course |   University  | Duration | Effort | Certificate
 :-- | :--: |   :--:  | :--: | :--:
@@ -102,7 +102,7 @@ Course |   University  | Duration | Effort | Certificate
 [Digital Business Models](https://www.coursera.org/learn/digital-business-models) |  Lund University  | 4 weeks | 2-3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/MXJ6QEGSFTD6 )
 [Customer-Centric IT Strategy](https://www.coursera.org/learn/uva-darden-customer-centric-it-strategy) |  University of Virginia | 2 weeks | 1-2 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/UFQJL5685RMF )
 
-     ## Finance Major 
+## Finance Major 
 Course |   University  | Duration | Effort | Certificate
 :-- | :--: |   :--:  | :--: | :--:
 [Financial Markets](https://www.coursera.org/learn/financial-markets-global) |  Yale University   | 7 weeks | 3-4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/N4GXPRZ7CPQX)
@@ -128,7 +128,7 @@ Course |   University  | Duration | Effort | Certificate
 [Modeling Risk and Realities](https://www.coursera.org/learn/wharton-risk-models?specialization=wharton-business-financial-modeling)| University of Pennsylvania - The Wharton School  | 4 weeks | 1-3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/VVXHSX77A3LN)
 [Decision-Making and Scenarios](https://www.coursera.org/learn/wharton-decision-making-scenarios)| University of Pennsylvania - The Wharton School  | 4 weeks | 1-3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/3YPT4TVREXU6)
 
-     ## Electives
+## Electives
          Strategy,Entrepreneurship,Marketing
 Course |   University  | Duration | Effort | Certificate
 :-- | :--: |   :--:  | :--: | :--:
